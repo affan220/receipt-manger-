@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Welcome to my receipt manager app
 
 TODO: Document your project here
